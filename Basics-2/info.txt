@@ -1,0 +1,10 @@
+
+Core data types
+-> number !== Number * number is the core primitive type*
+-> string
+-> boolean {true / false}
+we also have 
+-> array
+-> object
+-> 'any' type 
+//# javascript doesn't support TUPLE but typescript 

@@ -1,0 +1,1 @@
+//! AVOID 'any' TYPE LOL :)
